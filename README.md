@@ -30,11 +30,10 @@ personal-expense-tracker/
 ├── tests/
 │   └── test_expense_tracker.py
 ├── .gitignore
-├── LICENSE
 ├── README.md
 ├── expense_tracker.py
 ├── main.py
-└── requirements.txt
+
 ```
 
 ## Getting started
@@ -101,8 +100,4 @@ The application stores expenses locally in a CSV file. Do not commit personal fi
 - A graphical interface using Tkinter
 - Search and filter expenses by date or category
 
-## Author
 
-Your Name
-
-Created as a Python portfolio project.
